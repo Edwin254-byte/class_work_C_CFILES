@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1627966873 source:e:\personnal items\documents\programming items\personal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1627968839 source:e:\personnal items\documents\programming items\c language\personal\reading_existing_file.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1628085498 source:e:\personnal items\documents\programming items\c language\personal\writing_multipl_lines.c
+	<stdio.h>
+
+1628174615 source:e:\personnal items\documents\programming items\c language\personal\temp.c
+	<stdio.h>
+	<conio.h>
+
+1629467167 source:e:\personnal items\documents\programming items\c language\personal\lines_in_array.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1627966873 source:e:\personnal items\documents\programming items\c language\personal\creating_file.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
